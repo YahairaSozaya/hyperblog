@@ -1,0 +1,3 @@
+Este es un archivo con el que estoy
+practicando la creacion de un 
+repositorio en git
