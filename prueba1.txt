@@ -1,3 +1,7 @@
 Este es un archivo con el que estoy
 practicando la creacion de un 
 repositorio en git
+
+Con esta línea se ha hecho una modificación del texto
+
+Quiero probar como funciona el comando checkout
