@@ -6,4 +6,6 @@ Con esta línea se ha hecho una modificación del texto
 
 MASTER 1
 
+MASTER 2
+
 Quiero probar como funciona el comando checkout
