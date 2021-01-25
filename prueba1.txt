@@ -4,4 +4,6 @@ repositorio en git
 
 Con esta línea se ha hecho una modificación del texto
 
+MASTER 1
+
 Quiero probar como funciona el comando checkout
